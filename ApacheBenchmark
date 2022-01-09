@@ -1,1 +1,7 @@
 
+Download:
+https://www.apachelounge.com/download/
+
+Setup global environment variables:
+update path "\Downloads\httpd-2.4.52-win64-VS16\Apache24\bin\"
+
