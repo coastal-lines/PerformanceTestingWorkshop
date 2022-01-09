@@ -5,3 +5,15 @@ https://www.apachelounge.com/download/
 Setup global environment variables:
 update path "\Downloads\httpd-2.4.52-win64-VS16\Apache24\bin\"
 
+Open cmd:
+try to enter "ab"
+
+Parameters:
+-n requests     Number of requests to perform
+-c concurrency  Number of multiple requests to make at a time (how many users will be sent the requests)
+
+Notes:
+url should be has "/" in the end of address 
+
+Examples:
+ab -n 10 -c 10 example.com/
