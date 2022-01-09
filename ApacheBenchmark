@@ -17,3 +17,4 @@ url should be has "/" in the end of address
 
 Examples:
 ab -n 10 -c 10 example.com/
+ab -n 10 -c 10 example.com/ >log.txt (export the result into the log file)
