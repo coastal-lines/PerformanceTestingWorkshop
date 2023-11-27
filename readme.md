@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Chrome extension for Karaburma application.md</title><style></style></head><body id="preview">
+<body id="preview">
 <h1 class="code-line" data-line-start="0" data-line-end="1"><a id="Chrome_extension_for_Karaburma_application_0"></a>Chrome extension for <a href="https://github.com/coastal-lines/Karaburma">Karaburma</a> application</h1>
 <h2 class="code-line" data-line-start="1" data-line-end="2"><a id="_1"></a></h2>
 <h3 class="code-line" data-line-start="2" data-line-end="3"><a id="Description_2"></a>Description:</h3>
