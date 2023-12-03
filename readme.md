@@ -1,6 +1,6 @@
 <body id="preview">
 <h1 class="code-line" data-line-start="0" data-line-end="1"><a id="Chrome_extension_for_Karaburma_application_0"></a>Chrome extension for <a href="https://github.com/coastal-lines/Karaburma">Karaburma</a> application</h1>
-<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="_1"></a></h2>
+
 <h3 class="code-line" data-line-start="2" data-line-end="3"><a id="Description_2"></a>Description:</h3>
 <p class="has-line-data" data-line-start="3" data-line-end="4">Instead of working with devtools and searching for text queries among numerous requests, the extension allows you to obtain the filter query text for test cases with just one click</p>
 <h3 class="code-line" data-line-start="5" data-line-end="6"><a id="Features_5"></a>Features:</h3>
