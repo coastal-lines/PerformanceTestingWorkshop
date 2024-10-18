@@ -1,0 +1,14 @@
+{
+  "name": "Get Query",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "get-query.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
